@@ -35,6 +35,8 @@ The cheats operate externally via safe memory reading, ensuring your base game f
 
 ---
 
+
+
 ## ✨ Core Capabilities
 
 | Module | Description |
